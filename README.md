@@ -35,6 +35,40 @@
 
 ---
 
+### 💼 Work Experience
+
+#### 🔹 **Test Engineer** · [Marquistech](https://marquistech.com/) *(Nov 2025 – Present)*[cite: 5]
+- Capture device and network logs (QXDM, QCAT, ADB) to identify modem, RF, and protocol-level issues in unreleased mobile phones for major OEMs[cite: 5].
+- Reproduce and validate network-related problems including attach failures, handover issues, throughput drops, and IMS/VoLTE/5G NR anomalies for accurate root-cause analysis[cite: 5].
+- Document findings with detailed logs, reproduction steps, KPIs (RSRP/RSRQ/SINR), and impact assessment for engineering review[cite: 5].
+- Share structured reports and issue summaries with OEM, chipset, and carrier teams to support debugging, software updates, and acceptance testing[cite: 5].
+
+#### 🔹 **Junior Test Engineer** · [Unity](https://unity.com/) *(Nov 2024 – Apr 2025)*[cite: 5]
+- Identified, documented, and tracked bugs to resolution, ensuring efficient communication with customers and developers with a weekly target of 20 cases[cite: 5].
+- Designed, executed, and maintained automated and manual test cases for various software components and environments including IL2CPP, DOMS, and other relevant systems[cite: 5].
+- Identified regressed versions of software and provided initial fixes or workarounds for critical issues[cite: 5].
+- Managed a QA lab with a diverse range of devices and machines, enabling secure remote access for distributed teams and developing internal FTP servers for Unity's internal workflows[cite: 5].
+
+#### 🔹 **Software Development Intern** · UAB First Riddle *(Dec 2023 – Apr 2024)*[cite: 5]
+- Designed and developed test website, improving user experience and engagement for the company's e-commerce platform[cite: 5].
+- Managed product catalog, optimizing SEO and social media strategies, resulting in a 120–140% increase in website traffic[cite: 5].
+- Designed and deployed a robust user query and message database, reducing data retrieval time by 40% and enhancing customer support efficiency by 25%[cite: 5].
+
+---
+
+### 🚀 Projects
+
+| Project | Tech Stack | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **Passenger Messenger** | TypeScript, React, Next.js, NextAuth, Cloudinary, Pusher, MongoDB[cite: 5] | Modern messenger clone featuring real-time messaging updates, media handling, and secure session authentication[cite: 5]. | [GitHub Repo](https://github.com/abhayverma2108/passengermessenge)[cite: 5] |
+| **Move-It** | HTML, CSS, Bootstrap, JavaScript, React, MongoDB[cite: 6] | Courier service web platform designed for easy navigation, package dispatch, pickup scheduling, and shipment tracking[cite: 6]. | [Live Demo](https://abhayverma2108.github.io/MOVE-17/)[cite: 6] |
+| **Bank Application** | Java, JavaFX, Scene Builder, CSS[cite: 6] | Banking desktop software featuring a custom styled UI supporting standard transactions and account management[cite: 6]. | [GitHub Repo](https://github.com/abhayverma2108/Bank_Application)[cite: 6] |
+| **Greek Vocabulary Application** | Flutter, Dart, Swift, SQLite[cite: 6] | Mobile vocabulary app designed for Greek travel and food terms, tracking user tasks and learning progress offline[cite: 6]. | [GitHub Repo](https://github.com/BenBinary/greek_vocs)[cite: 6] |
+| **Pika Panic** | Unity Engine, C#, Plastic SCM[cite: 6] | Interactive desktop game with dynamic mechanics and unique level designs, developed with team version control[cite: 6]. | [Project Details](https://cloud.unity.com/home/organizations/24756934479511c6-4dab-94d2-c940bf45f6a4/details)[cite: 6] |
+| **Portfolio Website** | JavaScript, Vite, React, HTML, CSS[cite: 5] | Modern, responsive developer portfolio showcasing technical background, skillsets, and deployed applications[cite: 5]. | [Live Website](https://abhayv175.netlify.app)[cite: 5] |
+
+---
+
 ### 🛠️ Tech Stack & Tooling
 
 <div align="center">
