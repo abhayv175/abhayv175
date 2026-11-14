@@ -28,10 +28,9 @@
 
 ### 👨‍💻 About Me
 
-- 💻 **Core Roles:** Software Engineer | Data Science | Machine Learning | Testing & Quality Assurance
-- 💡 **Active Focus:** Developing intelligent systems, fine-tuning ML pipelines, and architecting robust end-to-end automated testing suites.
+- 💻 **Core Roles:** Software Engineer | Machine Learning | Testing & Quality Assurance
+- 💡 **Active Focus:** Developing intelligent systems and converting raw data into useful insights for making future decisions
 - 🤝 **Collaborations:** Open to working on full-stack projects, ML/AI tools, and distributed applications.
-- 🌍 **Fun Fact:** Passionate follower of global geopolitics and strategic relations.
 
 ---
 
@@ -60,9 +59,10 @@
 
 | Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
-| **Passenger Messenger** | TypeScript, React, Next.js, NextAuth, Cloudinary, Pusher, MongoDB | Modern messenger clone featuring real-time messaging updates, media handling, and secure session authentication. | [GitHub Repo](https://github.com/abhayverma2108/passengermessenge) |
-| **Move-It** | HTML, CSS, Bootstrap, JavaScript, React, MongoDB | Courier service web platform designed for easy navigation, package dispatch, pickup scheduling, and shipment tracking. | [Live Demo](https://abhayverma2108.github.io/MOVE-17/) |
-| **Bank Application** | Java, JavaFX, Scene Builder, CSS | Banking desktop software featuring a custom styled UI supporting standard transactions and account management. | [GitHub Repo](https://github.com/abhayverma2108/Bank_Application) |
+| **Print Pulse** | Python, FastAPI, Flutter, Dart, WebSockets, Docker | Cloud print-on-demand & kiosk automation platform featuring zero-install mobile web uploads, dynamic UPI payments, and a real-time Android vendor app with native printing. | [GitHub Repo](https://github.com/abhayv175/PrintPulse) |
+| **Passenger Messenger** | TypeScript, React, Next.js, NextAuth, Cloudinary, Pusher, MongoDB | Modern messenger clone featuring real-time messaging updates, media handling, and secure session authentication. | [GitHub Repo](https://github.com/abhayv175/passengermessenge) |
+| **Move-It** | HTML, CSS, Bootstrap, JavaScript, React, MongoDB | Courier service web platform designed for easy navigation, package dispatch, pickup scheduling, and shipment tracking. | [Live Demo](https://abhayv175.github.io/MOVE-17/) |
+| **Bank Application** | Java, JavaFX, Scene Builder, CSS | Banking desktop software featuring a custom styled UI supporting standard transactions and account management. | [GitHub Repo](https://github.com/abhayv175/Bank_Application) |
 | **Greek Vocabulary Application** | Flutter, Dart, Swift, SQLite | Mobile vocabulary app designed for Greek travel and food terms, tracking user tasks and learning progress offline. | [GitHub Repo](https://github.com/BenBinary/greek_vocs) |
 | **Pika Panic** | Unity Engine, C#, Plastic SCM | Interactive desktop game with dynamic mechanics and unique level designs, developed with team version control. | [Project Details](https://cloud.unity.com/home/organizations/24756934479511c6-4dab-94d2-c940bf45f6a4/details) |
 | **Portfolio Website** | JavaScript, Vite, React, HTML, CSS | Modern, responsive developer portfolio showcasing technical background, skillsets, and deployed applications. | [Live Website](https://abhayv175.netlify.app) |
